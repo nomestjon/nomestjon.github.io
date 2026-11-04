@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello and welcome to my website! This website is all about myself, the work I do, projects, practice, anything and everything. 
+Hello and welcome to my website! This website is all about myself, the work I do, projects, practice, anything and everything. PS im still working on building this up, this is early deployment phase!
 
 I am currently a junior in Computer Science out of the Luddy school of Informatics, Computing, and Engineering. I have honestly always just been curious about computer, the internet, hardward, and technology so I decided to study Computer Science. 
 
